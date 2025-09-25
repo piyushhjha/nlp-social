@@ -1,0 +1,2746 @@
+[
+  {
+    "id": "p1",
+    "source": "twitter",
+    "user": "rescue_team189",
+    "text": "Tremors felt in Bengaluru, aftershocks continuing. Multiple reports of damage and trapped people. Please send help.",
+    "created_at": "2025-08-08T05:47:00+05:30",
+    "likes": 456,
+    "retweets": 139,
+    "location_text": "Hill Top, Bengaluru",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p2",
+    "source": "facebook",
+    "user": "rescue_team",
+    "text": "Landslide on the road near Airport Road between Bengaluru and nearby areas after heavy rains. Vehicles trapped, rescue required.",
+    "created_at": "2025-09-04T21:14:00+05:30",
+    "likes": 229,
+    "retweets": 150,
+    "location_text": "Airport Road, Bengaluru",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p3",
+    "source": "facebook",
+    "user": "rescue_team",
+    "text": "Heatwave alert in Chennai: temperatures above 40C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-22T11:05:00+05:30",
+    "likes": 194,
+    "retweets": 24,
+    "location_text": "Industrial Area, Chennai",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p4",
+    "source": "twitter",
+    "user": "traveler",
+    "text": "Strong earthquake of magnitude 6.3 struck near Guwahati. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-09-09T19:36:00+05:30",
+    "likes": 98,
+    "retweets": 180,
+    "location_text": "Old Town, Guwahati",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p5",
+    "source": "facebook",
+    "user": "volunteer_group94",
+    "text": "Caught a fantastic sunset at Old Town, Siliguri. #photography",
+    "created_at": "2025-08-11T19:22:00+05:30",
+    "likes": 107,
+    "retweets": 171,
+    "location_text": "Old Town, Siliguri",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p6",
+    "source": "instagram",
+    "user": "rescue_team98",
+    "text": "Heatwave alert in Shimla: temperatures above 40C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-19T04:44:00+05:30",
+    "likes": 285,
+    "retweets": 56,
+    "location_text": "Airport Road, Shimla",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p7",
+    "source": "facebook",
+    "user": "observer",
+    "text": "Gas leak reported at Market Road, Mumbai. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-21T14:41:00+05:30",
+    "likes": 255,
+    "retweets": 101,
+    "location_text": "Market Road, Mumbai",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p8",
+    "source": "twitter",
+    "user": "firstresponder",
+    "text": "Gas leak reported at Lake Side, Thiruvananthapuram. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-26T19:14:00+05:30",
+    "likes": 70,
+    "retweets": 130,
+    "location_text": "Lake Side, Thiruvananthapuram",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p9",
+    "source": "facebook",
+    "user": "traveler153",
+    "text": "Severe rains caused flood in Jamshedpur around Lake Side. People stranded, need rescue and medical aid.",
+    "created_at": "2025-08-31T00:16:00+05:30",
+    "likes": 497,
+    "retweets": 141,
+    "location_text": "Lake Side, Jamshedpur",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p10",
+    "source": "facebook",
+    "user": "volunteer_group117",
+    "text": "Attended a cultural festival in Hyderabad today. Amazing performances and food.",
+    "created_at": "2025-08-02T07:56:00+05:30",
+    "likes": 368,
+    "retweets": 67,
+    "location_text": "Near the river, Hyderabad",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p11",
+    "source": "instagram",
+    "user": "observer96",
+    "text": "Enjoying a beautiful day at Airport Road, Nagpur. Perfect weather for a walk!",
+    "created_at": "2025-08-12T01:49:00+05:30",
+    "likes": 472,
+    "retweets": 135,
+    "location_text": "Airport Road, Nagpur",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p12",
+    "source": "twitter",
+    "user": "rescue_team146",
+    "text": "Wildfire spreading near Hill Top close to Vijayawada. Smoke everywhere and villages evacuated. Need firefighting support.",
+    "created_at": "2025-08-06T10:46:00+05:30",
+    "likes": 248,
+    "retweets": 17,
+    "location_text": "Hill Top, Vijayawada",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p13",
+    "source": "twitter",
+    "user": "travel_diary",
+    "text": "Heatwave alert in Jamshedpur: temperatures above 47C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-14T06:19:00+05:30",
+    "likes": 204,
+    "retweets": 171,
+    "location_text": "Market Road, Jamshedpur",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p14",
+    "source": "instagram",
+    "user": "local_reporter",
+    "text": "Massive flooding in Coastal Road, Mumbai. Houses submerged, people trapped on roofs. Need boats and food supplies urgently.",
+    "created_at": "2025-08-16T02:14:00+05:30",
+    "likes": 3,
+    "retweets": 18,
+    "location_text": "Coastal Road, Mumbai",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p15",
+    "source": "facebook",
+    "user": "samaritan34",
+    "text": "Gas leak reported at Hill Top, Imphal. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-09-07T02:30:00+05:30",
+    "likes": 124,
+    "retweets": 200,
+    "location_text": "Hill Top, Imphal",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p16",
+    "source": "twitter",
+    "user": "samaritan",
+    "text": "Water level rising fast near Old Town, Jamshedpur. Roads are blocked and several neighborhoods underwater. Request immediate evacuation.",
+    "created_at": "2025-08-05T05:41:00+05:30",
+    "likes": 330,
+    "retweets": 25,
+    "location_text": "Old Town, Jamshedpur",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p17",
+    "source": "twitter",
+    "user": "firstresponder119",
+    "text": "Strong earthquake of magnitude 6.3 struck near Kochi. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-08-16T10:28:00+05:30",
+    "likes": 413,
+    "retweets": 140,
+    "location_text": "Industrial Area, Kochi",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p18",
+    "source": "instagram",
+    "user": "firstresponder55",
+    "text": "Trying out a popular cafe in Imphal. Great coffee and vibes!",
+    "created_at": "2025-08-26T09:10:00+05:30",
+    "likes": 194,
+    "retweets": 0,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p19",
+    "source": "facebook",
+    "user": "rescue_team15",
+    "text": "Heatwave alert in Patiala: temperatures above 47C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-09-08T07:34:00+05:30",
+    "likes": 31,
+    "retweets": 191,
+    "location_text": "Industrial Area, Patiala",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p20",
+    "source": "facebook",
+    "user": "travel_diary48",
+    "text": "Trying out a popular cafe in Shimla. Great coffee and vibes!",
+    "created_at": "2025-08-06T03:04:00+05:30",
+    "likes": 345,
+    "retweets": 60,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p21",
+    "source": "twitter",
+    "user": "traveler150",
+    "text": "Storm surge expected in Kolkata due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-09-07T00:20:00+05:30",
+    "likes": 478,
+    "retweets": 66,
+    "location_text": "Lake Side, Kolkata",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p22",
+    "source": "instagram",
+    "user": "newsbot",
+    "text": "Strong earthquake of magnitude 5.9 struck near Nagpur. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-08-05T08:29:00+05:30",
+    "likes": 318,
+    "retweets": 144,
+    "location_text": "Station Road, Nagpur",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p23",
+    "source": "facebook",
+    "user": "rescue_team41",
+    "text": "Severe rains caused flood in Visakhapatnam around Near the river. People stranded, need rescue and medical aid.",
+    "created_at": "2025-08-30T01:45:00+05:30",
+    "likes": 154,
+    "retweets": 156,
+    "location_text": "Near the river, Visakhapatnam",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p24",
+    "source": "instagram",
+    "user": "traveler",
+    "text": "Storm surge expected in Lucknow due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-09-05T12:17:00+05:30",
+    "likes": 144,
+    "retweets": 154,
+    "location_text": "Hill Top, Lucknow",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p25",
+    "source": "facebook",
+    "user": "traveler",
+    "text": "Large forest fire at Gandhi Nagar, Thiruvananthapuram outskirts — houses at risk and smoke making breathing difficult. Volunteers needed to help evacuate.",
+    "created_at": "2025-08-18T09:00:00+05:30",
+    "likes": 170,
+    "retweets": 197,
+    "location_text": "Gandhi Nagar, Thiruvananthapuram",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p26",
+    "source": "instagram",
+    "user": "traveler",
+    "text": "Attended a cultural festival in Patna today. Amazing performances and food.",
+    "created_at": "2025-08-11T01:02:00+05:30",
+    "likes": 427,
+    "retweets": 94,
+    "location_text": "Near the river, Patna",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p27",
+    "source": "twitter",
+    "user": "local_reporter",
+    "text": "Heatwave alert in Nagpur: temperatures above 42C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-15T05:15:00+05:30",
+    "likes": 341,
+    "retweets": 26,
+    "location_text": "Coastal Road, Nagpur",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p28",
+    "source": "facebook",
+    "user": "local_reporter86",
+    "text": "Caught a fantastic sunset at Old Town, Leh. #photography",
+    "created_at": "2025-08-28T05:55:00+05:30",
+    "likes": 376,
+    "retweets": 63,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p29",
+    "source": "instagram",
+    "user": "rescue_team118",
+    "text": "Cyclone warning near Kolkata coast. Heavy winds and rains expected; coastal areas being evacuated. Secure loose objects and move to safe shelters.",
+    "created_at": "2025-08-23T17:52:00+05:30",
+    "likes": 407,
+    "retweets": 58,
+    "location_text": "Station Road, Kolkata",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p30",
+    "source": "twitter",
+    "user": "newsbot",
+    "text": "Massive flooding in Hill Top, Mumbai. Houses submerged, people trapped on roofs. Need boats and food supplies urgently.",
+    "created_at": "2025-08-27T05:53:00+05:30",
+    "likes": 274,
+    "retweets": 84,
+    "location_text": "Hill Top, Mumbai",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p31",
+    "source": "instagram",
+    "user": "traveler",
+    "text": "Tremors felt in Thiruvananthapuram, aftershocks continuing. Multiple reports of damage and trapped people. Please send help.",
+    "created_at": "2025-08-24T07:50:00+05:30",
+    "likes": 160,
+    "retweets": 111,
+    "location_text": "Gandhi Nagar, Thiruvananthapuram",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p32",
+    "source": "instagram",
+    "user": "travel_diary",
+    "text": "Storm surge expected in Jamshedpur due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-09-05T05:46:00+05:30",
+    "likes": 481,
+    "retweets": 189,
+    "location_text": "Gandhi Nagar, Jamshedpur",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p33",
+    "source": "facebook",
+    "user": "travel_diary105",
+    "text": "Wildfire spreading near Hill Top close to Guwahati. Smoke everywhere and villages evacuated. Need firefighting support.",
+    "created_at": "2025-08-21T20:44:00+05:30",
+    "likes": 151,
+    "retweets": 141,
+    "location_text": "Hill Top, Guwahati",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p34",
+    "source": "instagram",
+    "user": "observer141",
+    "text": "Attended a cultural festival in Leh today. Amazing performances and food.",
+    "created_at": "2025-08-01T17:18:00+05:30",
+    "likes": 107,
+    "retweets": 110,
+    "location_text": "Lake Side, Leh",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p35",
+    "source": "facebook",
+    "user": "travel_diary189",
+    "text": "Heatwave alert in Kochi: temperatures above 43C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-12T05:05:00+05:30",
+    "likes": 145,
+    "retweets": 131,
+    "location_text": "Market Road, Kochi",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p36",
+    "source": "twitter",
+    "user": "local_reporter122",
+    "text": "Storm surge expected in Manali due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-09-09T10:29:00+05:30",
+    "likes": 212,
+    "retweets": 161,
+    "location_text": "Industrial Area, Manali",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p37",
+    "source": "facebook",
+    "user": "firstresponder179",
+    "text": "Tremors felt in Patna, aftershocks continuing. Multiple reports of damage and trapped people. Please send help.",
+    "created_at": "2025-09-03T22:03:00+05:30",
+    "likes": 285,
+    "retweets": 63,
+    "location_text": "Near the river, Patna",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p38",
+    "source": "instagram",
+    "user": "observer",
+    "text": "Gas leak reported at Station Road, Bhopal. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-09-02T21:53:00+05:30",
+    "likes": 464,
+    "retweets": 140,
+    "location_text": "Station Road, Bhopal",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p39",
+    "source": "twitter",
+    "user": "travel_diary62",
+    "text": "Storm surge expected in Imphal due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-08-18T22:04:00+05:30",
+    "likes": 365,
+    "retweets": 73,
+    "location_text": "Hill Top, Imphal",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p40",
+    "source": "instagram",
+    "user": "citizen_john",
+    "text": "Gas leak reported at Old Town, Aizawl. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-05T21:26:00+05:30",
+    "likes": 169,
+    "retweets": 138,
+    "location_text": "Old Town, Aizawl",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p41",
+    "source": "facebook",
+    "user": "firstresponder91",
+    "text": "Attended a cultural festival in Bengaluru today. Amazing performances and food.",
+    "created_at": "2025-08-20T20:54:00+05:30",
+    "likes": 456,
+    "retweets": 107,
+    "location_text": "Lake Side, Bengaluru",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p42",
+    "source": "instagram",
+    "user": "rescue_team125",
+    "text": "Trying out a popular cafe in Aizawl. Great coffee and vibes!",
+    "created_at": "2025-08-02T20:21:00+05:30",
+    "likes": 342,
+    "retweets": 173,
+    "location_text": "Station Road, Aizawl",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p43",
+    "source": "instagram",
+    "user": "observer",
+    "text": "Trying out a popular cafe in Bengaluru. Great coffee and vibes!",
+    "created_at": "2025-08-02T10:41:00+05:30",
+    "likes": 219,
+    "retweets": 34,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p44",
+    "source": "instagram",
+    "user": "newsbot98",
+    "text": "Gas leak reported at Station Road, Kullu. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-18T21:16:00+05:30",
+    "likes": 427,
+    "retweets": 20,
+    "location_text": "Station Road, Kullu",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p45",
+    "source": "twitter",
+    "user": "local_reporter",
+    "text": "Large forest fire at Gandhi Nagar, Mumbai outskirts — houses at risk and smoke making breathing difficult. Volunteers needed to help evacuate.",
+    "created_at": "2025-08-13T08:39:00+05:30",
+    "likes": 78,
+    "retweets": 61,
+    "location_text": "Gandhi Nagar, Mumbai",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p46",
+    "source": "instagram",
+    "user": "citizen_john",
+    "text": "Water level rising fast near Coastal Road, Thiruvananthapuram. Roads are blocked and several neighborhoods underwater. Request immediate evacuation.",
+    "created_at": "2025-08-08T13:19:00+05:30",
+    "likes": 55,
+    "retweets": 148,
+    "location_text": "Coastal Road, Thiruvananthapuram",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p47",
+    "source": "facebook",
+    "user": "observer",
+    "text": "Attended a cultural festival in Manali today. Amazing performances and food.",
+    "created_at": "2025-08-16T11:44:00+05:30",
+    "likes": 395,
+    "retweets": 77,
+    "location_text": "Near the river, Manali",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p48",
+    "source": "twitter",
+    "user": "firstresponder",
+    "text": "Trying out a popular cafe in Visakhapatnam. Great coffee and vibes!",
+    "created_at": "2025-08-06T00:41:00+05:30",
+    "likes": 174,
+    "retweets": 3,
+    "location_text": "Airport Road, Visakhapatnam",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p49",
+    "source": "instagram",
+    "user": "citizen_john188",
+    "text": "Gas leak reported at Station Road, Vijayawada. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-09-04T04:17:00+05:30",
+    "likes": 315,
+    "retweets": 137,
+    "location_text": "Station Road, Vijayawada",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p50",
+    "source": "twitter",
+    "user": "volunteer_group",
+    "text": "A building collapsed in Near the river, Imphal. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-16T22:36:00+05:30",
+    "likes": 312,
+    "retweets": 171,
+    "location_text": "Near the river, Imphal",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p51",
+    "source": "facebook",
+    "user": "newsbot153",
+    "text": "Strong earthquake of magnitude 6.5 struck near Visakhapatnam. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-08-19T01:00:00+05:30",
+    "likes": 264,
+    "retweets": 48,
+    "location_text": "Hill Top, Visakhapatnam",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p52",
+    "source": "facebook",
+    "user": "samaritan",
+    "text": "Local market in Station Road, Srinagar has lovely handicrafts. Support small businesses!",
+    "created_at": "2025-08-06T17:14:00+05:30",
+    "likes": 207,
+    "retweets": 177,
+    "location_text": "Station Road, Srinagar",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p53",
+    "source": "facebook",
+    "user": "travel_diary180",
+    "text": "Strong earthquake of magnitude 5.1 struck near Visakhapatnam. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-08-30T16:19:00+05:30",
+    "likes": 128,
+    "retweets": 59,
+    "location_text": "Old Town, Visakhapatnam",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p54",
+    "source": "twitter",
+    "user": "volunteer_group",
+    "text": "Landslide on the road near Station Road between Kullu and nearby areas after heavy rains. Vehicles trapped, rescue required.",
+    "created_at": "2025-09-04T03:18:00+05:30",
+    "likes": 51,
+    "retweets": 49,
+    "location_text": "Station Road, Kullu",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p55",
+    "source": "twitter",
+    "user": "local_reporter",
+    "text": "Trying out a popular cafe in Lucknow. Great coffee and vibes!",
+    "created_at": "2025-09-05T17:44:00+05:30",
+    "likes": 483,
+    "retweets": 32,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p56",
+    "source": "facebook",
+    "user": "samaritan14",
+    "text": "A building collapsed in Station Road, Srinagar. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-17T23:07:00+05:30",
+    "likes": 420,
+    "retweets": 16,
+    "location_text": "Station Road, Srinagar",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p57",
+    "source": "instagram",
+    "user": "volunteer_group64",
+    "text": "Storm surge expected in Varanasi due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-08-09T01:48:00+05:30",
+    "likes": 213,
+    "retweets": 155,
+    "location_text": "Lake Side, Varanasi",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p58",
+    "source": "instagram",
+    "user": "observer",
+    "text": "Local market in Hill Top, Jamshedpur has lovely handicrafts. Support small businesses!",
+    "created_at": "2025-09-10T07:06:00+05:30",
+    "likes": 485,
+    "retweets": 195,
+    "location_text": "Hill Top, Jamshedpur",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p59",
+    "source": "facebook",
+    "user": "citizen_john",
+    "text": "Gas leak reported at Market Road, Shimla. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-11T08:26:00+05:30",
+    "likes": 230,
+    "retweets": 176,
+    "location_text": "Market Road, Shimla",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p60",
+    "source": "twitter",
+    "user": "rescue_team",
+    "text": "A building collapsed in Near the river, Cuttack. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-09-08T05:51:00+05:30",
+    "likes": 478,
+    "retweets": 50,
+    "location_text": "Near the river, Cuttack",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p61",
+    "source": "facebook",
+    "user": "local_reporter79",
+    "text": "Trying out a popular cafe in Varanasi. Great coffee and vibes!",
+    "created_at": "2025-09-09T07:52:00+05:30",
+    "likes": 291,
+    "retweets": 73,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p62",
+    "source": "facebook",
+    "user": "travel_diary",
+    "text": "Heatwave alert in Ahmedabad: temperatures above 43C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-29T10:38:00+05:30",
+    "likes": 20,
+    "retweets": 110,
+    "location_text": "Hill Top, Ahmedabad",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p63",
+    "source": "facebook",
+    "user": "observer194",
+    "text": "Caught a fantastic sunset at Hill Top, Bengaluru. #photography",
+    "created_at": "2025-08-12T23:33:00+05:30",
+    "likes": 333,
+    "retweets": 113,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p64",
+    "source": "facebook",
+    "user": "samaritan86",
+    "text": "Heatwave alert in Patiala: temperatures above 44C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-22T05:06:00+05:30",
+    "likes": 439,
+    "retweets": 41,
+    "location_text": "Near the river, Patiala",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p65",
+    "source": "twitter",
+    "user": "traveler83",
+    "text": "Attended a cultural festival in Kolkata today. Amazing performances and food.",
+    "created_at": "2025-08-08T20:55:00+05:30",
+    "likes": 263,
+    "retweets": 0,
+    "location_text": "Station Road, Kolkata",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p66",
+    "source": "twitter",
+    "user": "samaritan",
+    "text": "A hillside collapse at Lake Side, Vijayawada blocking the highway. Multiple people reported missing.",
+    "created_at": "2025-08-04T14:17:00+05:30",
+    "likes": 281,
+    "retweets": 33,
+    "location_text": "Lake Side, Vijayawada",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p67",
+    "source": "instagram",
+    "user": "volunteer_group",
+    "text": "Gas leak reported at Industrial Area, Imphal. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-09-05T21:05:00+05:30",
+    "likes": 115,
+    "retweets": 29,
+    "location_text": "Industrial Area, Imphal",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p68",
+    "source": "facebook",
+    "user": "volunteer_group124",
+    "text": "Trying out a popular cafe in Pune. Great coffee and vibes!",
+    "created_at": "2025-08-31T15:29:00+05:30",
+    "likes": 282,
+    "retweets": 37,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p69",
+    "source": "facebook",
+    "user": "volunteer_group",
+    "text": "Landslide on the road near Near the river between Lucknow and nearby areas after heavy rains. Vehicles trapped, rescue required.",
+    "created_at": "2025-08-27T18:59:00+05:30",
+    "likes": 403,
+    "retweets": 129,
+    "location_text": "Near the river, Lucknow",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p70",
+    "source": "facebook",
+    "user": "samaritan",
+    "text": "A building collapsed in Industrial Area, Patiala. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-23T18:35:00+05:30",
+    "likes": 390,
+    "retweets": 139,
+    "location_text": "Industrial Area, Patiala",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p71",
+    "source": "twitter",
+    "user": "firstresponder191",
+    "text": "A building collapsed in Market Road, Surat. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-09-01T06:58:00+05:30",
+    "likes": 415,
+    "retweets": 97,
+    "location_text": "Market Road, Surat",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p72",
+    "source": "instagram",
+    "user": "samaritan117",
+    "text": "Wildfire spreading near Near the river close to Hyderabad. Smoke everywhere and villages evacuated. Need firefighting support.",
+    "created_at": "2025-08-02T07:09:00+05:30",
+    "likes": 209,
+    "retweets": 167,
+    "location_text": "Near the river, Hyderabad",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p73",
+    "source": "facebook",
+    "user": "newsbot",
+    "text": "Gas leak reported at Near the river, Ahmedabad. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-09-04T20:20:00+05:30",
+    "likes": 320,
+    "retweets": 183,
+    "location_text": "Near the river, Ahmedabad",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p74",
+    "source": "instagram",
+    "user": "traveler26",
+    "text": "Massive flooding in Market Road, Pune. Houses submerged, people trapped on roofs. Need boats and food supplies urgently.",
+    "created_at": "2025-08-07T22:10:00+05:30",
+    "likes": 355,
+    "retweets": 76,
+    "location_text": "Market Road, Pune",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p75",
+    "source": "facebook",
+    "user": "rescue_team",
+    "text": "Wildfire spreading near Industrial Area close to Jamshedpur. Smoke everywhere and villages evacuated. Need firefighting support.",
+    "created_at": "2025-09-07T05:50:00+05:30",
+    "likes": 92,
+    "retweets": 43,
+    "location_text": "Industrial Area, Jamshedpur",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p76",
+    "source": "twitter",
+    "user": "citizen_john164",
+    "text": "Gas leak reported at Lake Side, Patiala. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-17T22:16:00+05:30",
+    "likes": 341,
+    "retweets": 2,
+    "location_text": "Lake Side, Patiala",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p77",
+    "source": "twitter",
+    "user": "volunteer_group",
+    "text": "Storm surge expected in Visakhapatnam due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-08-29T06:16:00+05:30",
+    "likes": 233,
+    "retweets": 77,
+    "location_text": "Lake Side, Visakhapatnam",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p78",
+    "source": "facebook",
+    "user": "volunteer_group",
+    "text": "Landslide on the road near Lake Side between Visakhapatnam and nearby areas after heavy rains. Vehicles trapped, rescue required.",
+    "created_at": "2025-08-19T08:53:00+05:30",
+    "likes": 337,
+    "retweets": 101,
+    "location_text": "Lake Side, Visakhapatnam",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p79",
+    "source": "facebook",
+    "user": "rescue_team",
+    "text": "Caught a fantastic sunset at Hill Top, Patiala. #photography",
+    "created_at": "2025-08-23T15:40:00+05:30",
+    "likes": 97,
+    "retweets": 158,
+    "location_text": "Hill Top, Patiala",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p80",
+    "source": "instagram",
+    "user": "local_reporter113",
+    "text": "Enjoying a beautiful day at Near the river, Lucknow. Perfect weather for a walk!",
+    "created_at": "2025-08-04T02:23:00+05:30",
+    "likes": 374,
+    "retweets": 33,
+    "location_text": "Near the river, Lucknow",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p81",
+    "source": "instagram",
+    "user": "citizen_john",
+    "text": "Local market in Market Road, Leh has lovely handicrafts. Support small businesses!",
+    "created_at": "2025-08-25T00:32:00+05:30",
+    "likes": 467,
+    "retweets": 69,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p82",
+    "source": "facebook",
+    "user": "traveler20",
+    "text": "Trying out a popular cafe in Pune. Great coffee and vibes!",
+    "created_at": "2025-08-10T15:55:00+05:30",
+    "likes": 346,
+    "retweets": 185,
+    "location_text": "Coastal Road, Pune",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p83",
+    "source": "twitter",
+    "user": "volunteer_group",
+    "text": "A hillside collapse at Gandhi Nagar, Ahmedabad blocking the highway. Multiple people reported missing.",
+    "created_at": "2025-08-30T19:43:00+05:30",
+    "likes": 383,
+    "retweets": 172,
+    "location_text": "Gandhi Nagar, Ahmedabad",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p84",
+    "source": "facebook",
+    "user": "observer",
+    "text": "Tremors felt in Srinagar, aftershocks continuing. Multiple reports of damage and trapped people. Please send help.",
+    "created_at": "2025-09-05T18:58:00+05:30",
+    "likes": 312,
+    "retweets": 56,
+    "location_text": "Gandhi Nagar, Srinagar",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p85",
+    "source": "facebook",
+    "user": "local_reporter127",
+    "text": "Large forest fire at Gandhi Nagar, Lucknow outskirts — houses at risk and smoke making breathing difficult. Volunteers needed to help evacuate.",
+    "created_at": "2025-08-08T11:15:00+05:30",
+    "likes": 454,
+    "retweets": 137,
+    "location_text": "Gandhi Nagar, Lucknow",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p86",
+    "source": "instagram",
+    "user": "citizen_john",
+    "text": "Severe rains caused flood in Indore around Lake Side. People stranded, need rescue and medical aid.",
+    "created_at": "2025-08-07T23:39:00+05:30",
+    "likes": 208,
+    "retweets": 71,
+    "location_text": "Lake Side, Indore",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p87",
+    "source": "instagram",
+    "user": "newsbot",
+    "text": "Enjoying a beautiful day at Near the river, Vijayawada. Perfect weather for a walk!",
+    "created_at": "2025-08-23T09:25:00+05:30",
+    "likes": 141,
+    "retweets": 48,
+    "location_text": "Near the river, Vijayawada",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p88",
+    "source": "instagram",
+    "user": "local_reporter86",
+    "text": "Strong earthquake of magnitude 6.1 struck near Kullu. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-08-16T12:50:00+05:30",
+    "likes": 289,
+    "retweets": 52,
+    "location_text": "Lake Side, Kullu",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p89",
+    "source": "instagram",
+    "user": "citizen_john",
+    "text": "Enjoying a beautiful day at Hill Top, Patna. Perfect weather for a walk!",
+    "created_at": "2025-09-04T16:51:00+05:30",
+    "likes": 89,
+    "retweets": 28,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p90",
+    "source": "instagram",
+    "user": "newsbot68",
+    "text": "Enjoying a beautiful day at Lake Side, Imphal. Perfect weather for a walk!",
+    "created_at": "2025-08-04T12:47:00+05:30",
+    "likes": 215,
+    "retweets": 134,
+    "location_text": "Lake Side, Imphal",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p91",
+    "source": "twitter",
+    "user": "observer129",
+    "text": "A hillside collapse at Airport Road, Vijayawada blocking the highway. Multiple people reported missing.",
+    "created_at": "2025-08-16T03:02:00+05:30",
+    "likes": 372,
+    "retweets": 200,
+    "location_text": "Airport Road, Vijayawada",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p92",
+    "source": "facebook",
+    "user": "traveler114",
+    "text": "Enjoying a beautiful day at Old Town, Ahmedabad. Perfect weather for a walk!",
+    "created_at": "2025-08-05T10:20:00+05:30",
+    "likes": 311,
+    "retweets": 37,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p93",
+    "source": "instagram",
+    "user": "observer",
+    "text": "Strong earthquake of magnitude 5.5 struck near Bhopal. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-08-31T00:38:00+05:30",
+    "likes": 220,
+    "retweets": 25,
+    "location_text": "Old Town, Bhopal",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p94",
+    "source": "twitter",
+    "user": "firstresponder",
+    "text": "Heatwave alert in Cuttack: temperatures above 47C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-21T21:20:00+05:30",
+    "likes": 340,
+    "retweets": 65,
+    "location_text": "Old Town, Cuttack",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p95",
+    "source": "instagram",
+    "user": "firstresponder190",
+    "text": "Heatwave alert in Jaipur: temperatures above 50C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-24T12:35:00+05:30",
+    "likes": 30,
+    "retweets": 150,
+    "location_text": "Near the river, Jaipur",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p96",
+    "source": "twitter",
+    "user": "observer27",
+    "text": "Trying out a popular cafe in Delhi. Great coffee and vibes!",
+    "created_at": "2025-09-07T00:13:00+05:30",
+    "likes": 79,
+    "retweets": 168,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p97",
+    "source": "twitter",
+    "user": "volunteer_group",
+    "text": "Severe rains caused flood in Vijayawada around Near the river. People stranded, need rescue and medical aid.",
+    "created_at": "2025-08-29T01:49:00+05:30",
+    "likes": 419,
+    "retweets": 159,
+    "location_text": "Near the river, Vijayawada",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p98",
+    "source": "instagram",
+    "user": "newsbot37",
+    "text": "Massive flooding in Coastal Road, Nagpur. Houses submerged, people trapped on roofs. Need boats and food supplies urgently.",
+    "created_at": "2025-09-07T05:25:00+05:30",
+    "likes": 35,
+    "retweets": 36,
+    "location_text": "Coastal Road, Nagpur",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p99",
+    "source": "facebook",
+    "user": "newsbot84",
+    "text": "Wildfire spreading near Industrial Area close to Hyderabad. Smoke everywhere and villages evacuated. Need firefighting support.",
+    "created_at": "2025-09-07T03:05:00+05:30",
+    "likes": 452,
+    "retweets": 13,
+    "location_text": "Industrial Area, Hyderabad",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p100",
+    "source": "facebook",
+    "user": "samaritan",
+    "text": "Tremors felt in Kochi, aftershocks continuing. Multiple reports of damage and trapped people. Please send help.",
+    "created_at": "2025-08-27T16:13:00+05:30",
+    "likes": 386,
+    "retweets": 131,
+    "location_text": "Old Town, Kochi",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p101",
+    "source": "instagram",
+    "user": "volunteer_group102",
+    "text": "Cyclone warning near Patiala coast. Heavy winds and rains expected; coastal areas being evacuated. Secure loose objects and move to safe shelters.",
+    "created_at": "2025-09-08T09:00:00+05:30",
+    "likes": 104,
+    "retweets": 77,
+    "location_text": "Airport Road, Patiala",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p102",
+    "source": "instagram",
+    "user": "citizen_john137",
+    "text": "Heatwave alert in Patiala: temperatures above 40C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-16T00:35:00+05:30",
+    "likes": 426,
+    "retweets": 171,
+    "location_text": "Old Town, Patiala",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p103",
+    "source": "instagram",
+    "user": "observer104",
+    "text": "Heatwave alert in Mumbai: temperatures above 49C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-27T17:07:00+05:30",
+    "likes": 207,
+    "retweets": 5,
+    "location_text": "Coastal Road, Mumbai",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p104",
+    "source": "instagram",
+    "user": "firstresponder",
+    "text": "Enjoying a beautiful day at Near the river, Vijayawada. Perfect weather for a walk!",
+    "created_at": "2025-08-16T21:37:00+05:30",
+    "likes": 205,
+    "retweets": 134,
+    "location_text": "Near the river, Vijayawada",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p105",
+    "source": "facebook",
+    "user": "citizen_john163",
+    "text": "Caught a fantastic sunset at Coastal Road, Aizawl. #photography",
+    "created_at": "2025-08-09T00:32:00+05:30",
+    "likes": 99,
+    "retweets": 198,
+    "location_text": "Coastal Road, Aizawl",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p106",
+    "source": "facebook",
+    "user": "citizen_john45",
+    "text": "Enjoying a beautiful day at Near the river, Imphal. Perfect weather for a walk!",
+    "created_at": "2025-09-08T12:48:00+05:30",
+    "likes": 388,
+    "retweets": 167,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p107",
+    "source": "twitter",
+    "user": "observer161",
+    "text": "Gas leak reported at Lake Side, Kochi. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-21T12:28:00+05:30",
+    "likes": 34,
+    "retweets": 120,
+    "location_text": "Lake Side, Kochi",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p108",
+    "source": "instagram",
+    "user": "samaritan15",
+    "text": "A building collapsed in Hill Top, Mumbai. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-24T17:04:00+05:30",
+    "likes": 330,
+    "retweets": 23,
+    "location_text": "Hill Top, Mumbai",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p109",
+    "source": "twitter",
+    "user": "observer39",
+    "text": "Enjoying a beautiful day at Coastal Road, Manali. Perfect weather for a walk!",
+    "created_at": "2025-08-04T22:06:00+05:30",
+    "likes": 415,
+    "retweets": 87,
+    "location_text": "Coastal Road, Manali",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p110",
+    "source": "facebook",
+    "user": "travel_diary",
+    "text": "A building collapsed in Station Road, Kochi. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-11T19:23:00+05:30",
+    "likes": 469,
+    "retweets": 72,
+    "location_text": "Station Road, Kochi",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p111",
+    "source": "twitter",
+    "user": "newsbot174",
+    "text": "Large forest fire at Near the river, Hyderabad outskirts — houses at risk and smoke making breathing difficult. Volunteers needed to help evacuate.",
+    "created_at": "2025-08-25T17:16:00+05:30",
+    "likes": 370,
+    "retweets": 168,
+    "location_text": "Near the river, Hyderabad",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p112",
+    "source": "facebook",
+    "user": "citizen_john",
+    "text": "Caught a fantastic sunset at Old Town, Nagpur. #photography",
+    "created_at": "2025-08-06T17:35:00+05:30",
+    "likes": 192,
+    "retweets": 164,
+    "location_text": "Old Town, Nagpur",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p113",
+    "source": "twitter",
+    "user": "travel_diary93",
+    "text": "Trying out a popular cafe in Jaipur. Great coffee and vibes!",
+    "created_at": "2025-08-20T13:13:00+05:30",
+    "likes": 174,
+    "retweets": 196,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p114",
+    "source": "facebook",
+    "user": "travel_diary",
+    "text": "Large forest fire at Near the river, Pune outskirts — houses at risk and smoke making breathing difficult. Volunteers needed to help evacuate.",
+    "created_at": "2025-09-03T09:42:00+05:30",
+    "likes": 172,
+    "retweets": 196,
+    "location_text": "Near the river, Pune",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p115",
+    "source": "twitter",
+    "user": "local_reporter174",
+    "text": "Trying out a popular cafe in Shimla. Great coffee and vibes!",
+    "created_at": "2025-08-16T22:39:00+05:30",
+    "likes": 145,
+    "retweets": 192,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p116",
+    "source": "facebook",
+    "user": "newsbot",
+    "text": "A building collapsed in Market Road, Srinagar. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-09-06T22:29:00+05:30",
+    "likes": 393,
+    "retweets": 72,
+    "location_text": "Market Road, Srinagar",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p117",
+    "source": "instagram",
+    "user": "samaritan",
+    "text": "Tremors felt in Thiruvananthapuram, aftershocks continuing. Multiple reports of damage and trapped people. Please send help.",
+    "created_at": "2025-09-05T11:45:00+05:30",
+    "likes": 433,
+    "retweets": 132,
+    "location_text": "Gandhi Nagar, Thiruvananthapuram",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p118",
+    "source": "twitter",
+    "user": "traveler",
+    "text": "A building collapsed in Old Town, Varanasi. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-15T22:56:00+05:30",
+    "likes": 178,
+    "retweets": 6,
+    "location_text": "Old Town, Varanasi",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p119",
+    "source": "instagram",
+    "user": "rescue_team26",
+    "text": "Gas leak reported at Coastal Road, Jaipur. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-22T12:08:00+05:30",
+    "likes": 19,
+    "retweets": 73,
+    "location_text": "Coastal Road, Jaipur",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p120",
+    "source": "twitter",
+    "user": "volunteer_group39",
+    "text": "Tremors felt in Jaipur, aftershocks continuing. Multiple reports of damage and trapped people. Please send help.",
+    "created_at": "2025-09-06T07:38:00+05:30",
+    "likes": 270,
+    "retweets": 108,
+    "location_text": "Gandhi Nagar, Jaipur",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p121",
+    "source": "facebook",
+    "user": "traveler",
+    "text": "Cyclone warning near Cuttack coast. Heavy winds and rains expected; coastal areas being evacuated. Secure loose objects and move to safe shelters.",
+    "created_at": "2025-09-02T03:34:00+05:30",
+    "likes": 8,
+    "retweets": 161,
+    "location_text": "Near the river, Cuttack",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p122",
+    "source": "facebook",
+    "user": "traveler",
+    "text": "Water level rising fast near Industrial Area, Indore. Roads are blocked and several neighborhoods underwater. Request immediate evacuation.",
+    "created_at": "2025-08-24T10:33:00+05:30",
+    "likes": 278,
+    "retweets": 129,
+    "location_text": "Industrial Area, Indore",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p123",
+    "source": "facebook",
+    "user": "local_reporter18",
+    "text": "Tremors felt in Vijayawada, aftershocks continuing. Multiple reports of damage and trapped people. Please send help.",
+    "created_at": "2025-08-23T15:46:00+05:30",
+    "likes": 336,
+    "retweets": 160,
+    "location_text": "Hill Top, Vijayawada",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p124",
+    "source": "twitter",
+    "user": "samaritan",
+    "text": "Water level rising fast near Station Road, Leh. Roads are blocked and several neighborhoods underwater. Request immediate evacuation.",
+    "created_at": "2025-08-09T10:45:00+05:30",
+    "likes": 397,
+    "retweets": 117,
+    "location_text": "Station Road, Leh",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p125",
+    "source": "facebook",
+    "user": "firstresponder",
+    "text": "Storm surge expected in Nagpur due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-09-04T23:16:00+05:30",
+    "likes": 18,
+    "retweets": 192,
+    "location_text": "Airport Road, Nagpur",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p126",
+    "source": "instagram",
+    "user": "firstresponder",
+    "text": "Gas leak reported at Coastal Road, Guwahati. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-29T20:21:00+05:30",
+    "likes": 498,
+    "retweets": 47,
+    "location_text": "Coastal Road, Guwahati",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p127",
+    "source": "instagram",
+    "user": "firstresponder",
+    "text": "Enjoying a beautiful day at Near the river, Jamshedpur. Perfect weather for a walk!",
+    "created_at": "2025-08-13T01:18:00+05:30",
+    "likes": 164,
+    "retweets": 26,
+    "location_text": "Near the river, Jamshedpur",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p128",
+    "source": "instagram",
+    "user": "samaritan11",
+    "text": "Massive flooding in Industrial Area, Jamshedpur. Houses submerged, people trapped on roofs. Need boats and food supplies urgently.",
+    "created_at": "2025-08-24T03:27:00+05:30",
+    "likes": 140,
+    "retweets": 163,
+    "location_text": "Industrial Area, Jamshedpur",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p129",
+    "source": "twitter",
+    "user": "citizen_john",
+    "text": "Heatwave alert in Shimla: temperatures above 49C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-29T09:08:00+05:30",
+    "likes": 34,
+    "retweets": 60,
+    "location_text": "Gandhi Nagar, Shimla",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p130",
+    "source": "twitter",
+    "user": "newsbot20",
+    "text": "Heatwave alert in Kochi: temperatures above 41C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-09-06T12:33:00+05:30",
+    "likes": 187,
+    "retweets": 101,
+    "location_text": "Coastal Road, Kochi",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p131",
+    "source": "facebook",
+    "user": "firstresponder",
+    "text": "Trying out a popular cafe in Patiala. Great coffee and vibes!",
+    "created_at": "2025-08-08T16:49:00+05:30",
+    "likes": 133,
+    "retweets": 180,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p132",
+    "source": "facebook",
+    "user": "traveler19",
+    "text": "Tremors felt in Patiala, aftershocks continuing. Multiple reports of damage and trapped people. Please send help.",
+    "created_at": "2025-08-29T13:57:00+05:30",
+    "likes": 365,
+    "retweets": 113,
+    "location_text": "Market Road, Patiala",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p133",
+    "source": "facebook",
+    "user": "citizen_john",
+    "text": "Storm surge expected in Nagpur due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-09-02T15:07:00+05:30",
+    "likes": 102,
+    "retweets": 35,
+    "location_text": "Industrial Area, Nagpur",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p134",
+    "source": "twitter",
+    "user": "traveler102",
+    "text": "Strong earthquake of magnitude 7.4 struck near Lucknow. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-09-01T00:26:00+05:30",
+    "likes": 393,
+    "retweets": 104,
+    "location_text": "Lake Side, Lucknow",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p135",
+    "source": "instagram",
+    "user": "travel_diary",
+    "text": "Strong earthquake of magnitude 5.1 struck near Visakhapatnam. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-08-12T12:27:00+05:30",
+    "likes": 257,
+    "retweets": 14,
+    "location_text": "Industrial Area, Visakhapatnam",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p136",
+    "source": "instagram",
+    "user": "travel_diary",
+    "text": "Caught a fantastic sunset at Coastal Road, Aizawl. #photography",
+    "created_at": "2025-08-06T16:12:00+05:30",
+    "likes": 325,
+    "retweets": 141,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p137",
+    "source": "twitter",
+    "user": "citizen_john",
+    "text": "Heatwave alert in Jaipur: temperatures above 40C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-09-07T12:10:00+05:30",
+    "likes": 337,
+    "retweets": 159,
+    "location_text": "Airport Road, Jaipur",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p138",
+    "source": "instagram",
+    "user": "observer164",
+    "text": "A hillside collapse at Market Road, Thiruvananthapuram blocking the highway. Multiple people reported missing.",
+    "created_at": "2025-08-02T23:56:00+05:30",
+    "likes": 321,
+    "retweets": 139,
+    "location_text": "Market Road, Thiruvananthapuram",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p139",
+    "source": "instagram",
+    "user": "citizen_john124",
+    "text": "Heatwave alert in Mumbai: temperatures above 45C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-30T14:21:00+05:30",
+    "likes": 310,
+    "retweets": 36,
+    "location_text": "Gandhi Nagar, Mumbai",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p140",
+    "source": "facebook",
+    "user": "travel_diary62",
+    "text": "Wildfire spreading near Airport Road close to Vijayawada. Smoke everywhere and villages evacuated. Need firefighting support.",
+    "created_at": "2025-08-30T11:17:00+05:30",
+    "likes": 230,
+    "retweets": 63,
+    "location_text": "Airport Road, Vijayawada",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p141",
+    "source": "instagram",
+    "user": "observer",
+    "text": "Gas leak reported at Coastal Road, Shimla. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-13T13:31:00+05:30",
+    "likes": 263,
+    "retweets": 119,
+    "location_text": "Coastal Road, Shimla",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p142",
+    "source": "instagram",
+    "user": "observer13",
+    "text": "Gas leak reported at Market Road, Imphal. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-19T23:38:00+05:30",
+    "likes": 451,
+    "retweets": 167,
+    "location_text": "Market Road, Imphal",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p143",
+    "source": "facebook",
+    "user": "firstresponder103",
+    "text": "Landslide on the road near Coastal Road between Thiruvananthapuram and nearby areas after heavy rains. Vehicles trapped, rescue required.",
+    "created_at": "2025-08-05T02:35:00+05:30",
+    "likes": 99,
+    "retweets": 92,
+    "location_text": "Coastal Road, Thiruvananthapuram",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p144",
+    "source": "facebook",
+    "user": "traveler87",
+    "text": "A building collapsed in Industrial Area, Guwahati. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-09-05T19:48:00+05:30",
+    "likes": 73,
+    "retweets": 50,
+    "location_text": "Industrial Area, Guwahati",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p145",
+    "source": "facebook",
+    "user": "samaritan132",
+    "text": "Large forest fire at Airport Road, Srinagar outskirts — houses at risk and smoke making breathing difficult. Volunteers needed to help evacuate.",
+    "created_at": "2025-08-09T18:59:00+05:30",
+    "likes": 313,
+    "retweets": 81,
+    "location_text": "Airport Road, Srinagar",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p146",
+    "source": "facebook",
+    "user": "volunteer_group5",
+    "text": "Landslide on the road near Lake Side between Patiala and nearby areas after heavy rains. Vehicles trapped, rescue required.",
+    "created_at": "2025-08-24T18:43:00+05:30",
+    "likes": 56,
+    "retweets": 106,
+    "location_text": "Lake Side, Patiala",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p147",
+    "source": "facebook",
+    "user": "observer135",
+    "text": "Local market in Gandhi Nagar, Aizawl has lovely handicrafts. Support small businesses!",
+    "created_at": "2025-09-09T20:09:00+05:30",
+    "likes": 420,
+    "retweets": 174,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p148",
+    "source": "twitter",
+    "user": "newsbot106",
+    "text": "Gas leak reported at Station Road, Bengaluru. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-14T21:32:00+05:30",
+    "likes": 396,
+    "retweets": 156,
+    "location_text": "Station Road, Bengaluru",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p149",
+    "source": "instagram",
+    "user": "firstresponder45",
+    "text": "A hillside collapse at Airport Road, Srinagar blocking the highway. Multiple people reported missing.",
+    "created_at": "2025-08-31T01:21:00+05:30",
+    "likes": 279,
+    "retweets": 90,
+    "location_text": "Airport Road, Srinagar",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p150",
+    "source": "facebook",
+    "user": "volunteer_group",
+    "text": "A hillside collapse at Hill Top, Aizawl blocking the highway. Multiple people reported missing.",
+    "created_at": "2025-09-01T18:30:00+05:30",
+    "likes": 178,
+    "retweets": 143,
+    "location_text": "Hill Top, Aizawl",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p151",
+    "source": "instagram",
+    "user": "citizen_john74",
+    "text": "A hillside collapse at Coastal Road, Ahmedabad blocking the highway. Multiple people reported missing.",
+    "created_at": "2025-08-06T19:59:00+05:30",
+    "likes": 226,
+    "retweets": 167,
+    "location_text": "Coastal Road, Ahmedabad",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p152",
+    "source": "twitter",
+    "user": "traveler",
+    "text": "Attended a cultural festival in Chennai today. Amazing performances and food.",
+    "created_at": "2025-09-07T15:15:00+05:30",
+    "likes": 25,
+    "retweets": 171,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p153",
+    "source": "instagram",
+    "user": "samaritan198",
+    "text": "A building collapsed in Coastal Road, Indore. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-09T08:35:00+05:30",
+    "likes": 500,
+    "retweets": 40,
+    "location_text": "Coastal Road, Indore",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p154",
+    "source": "facebook",
+    "user": "observer190",
+    "text": "Water level rising fast near Near the river, Delhi. Roads are blocked and several neighborhoods underwater. Request immediate evacuation.",
+    "created_at": "2025-08-03T13:26:00+05:30",
+    "likes": 451,
+    "retweets": 45,
+    "location_text": "Near the river, Delhi",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p155",
+    "source": "twitter",
+    "user": "local_reporter155",
+    "text": "Attended a cultural festival in Pune today. Amazing performances and food.",
+    "created_at": "2025-08-07T18:18:00+05:30",
+    "likes": 232,
+    "retweets": 164,
+    "location_text": "Gandhi Nagar, Pune",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p156",
+    "source": "twitter",
+    "user": "rescue_team",
+    "text": "Caught a fantastic sunset at Hill Top, Cuttack. #photography",
+    "created_at": "2025-08-22T13:46:00+05:30",
+    "likes": 234,
+    "retweets": 165,
+    "location_text": "Hill Top, Cuttack",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p157",
+    "source": "twitter",
+    "user": "rescue_team164",
+    "text": "Trying out a popular cafe in Pune. Great coffee and vibes!",
+    "created_at": "2025-08-26T21:32:00+05:30",
+    "likes": 167,
+    "retweets": 22,
+    "location_text": "Lake Side, Pune",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p158",
+    "source": "facebook",
+    "user": "rescue_team99",
+    "text": "Caught a fantastic sunset at Coastal Road, Srinagar. #photography",
+    "created_at": "2025-08-16T22:48:00+05:30",
+    "likes": 136,
+    "retweets": 84,
+    "location_text": "Coastal Road, Srinagar",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p159",
+    "source": "instagram",
+    "user": "local_reporter",
+    "text": "Landslide on the road near Market Road between Vijayawada and nearby areas after heavy rains. Vehicles trapped, rescue required.",
+    "created_at": "2025-08-30T17:10:00+05:30",
+    "likes": 207,
+    "retweets": 175,
+    "location_text": "Market Road, Vijayawada",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p160",
+    "source": "facebook",
+    "user": "samaritan192",
+    "text": "Gas leak reported at Industrial Area, Aizawl. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-09-08T19:26:00+05:30",
+    "likes": 359,
+    "retweets": 140,
+    "location_text": "Industrial Area, Aizawl",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p161",
+    "source": "facebook",
+    "user": "samaritan",
+    "text": "Enjoying a beautiful day at Airport Road, Jaipur. Perfect weather for a walk!",
+    "created_at": "2025-08-24T10:58:00+05:30",
+    "likes": 288,
+    "retweets": 28,
+    "location_text": "Airport Road, Jaipur",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p162",
+    "source": "twitter",
+    "user": "newsbot",
+    "text": "Gas leak reported at Industrial Area, Varanasi. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-29T11:43:00+05:30",
+    "likes": 105,
+    "retweets": 183,
+    "location_text": "Industrial Area, Varanasi",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p163",
+    "source": "twitter",
+    "user": "observer119",
+    "text": "Severe rains caused flood in Indore around Station Road. People stranded, need rescue and medical aid.",
+    "created_at": "2025-08-21T07:01:00+05:30",
+    "likes": 202,
+    "retweets": 65,
+    "location_text": "Station Road, Indore",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p164",
+    "source": "instagram",
+    "user": "local_reporter",
+    "text": "Wildfire spreading near Airport Road close to Mumbai. Smoke everywhere and villages evacuated. Need firefighting support.",
+    "created_at": "2025-08-05T23:02:00+05:30",
+    "likes": 146,
+    "retweets": 104,
+    "location_text": "Airport Road, Mumbai",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p165",
+    "source": "facebook",
+    "user": "firstresponder175",
+    "text": "Strong earthquake of magnitude 7.5 struck near Surat. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-09-04T12:41:00+05:30",
+    "likes": 440,
+    "retweets": 89,
+    "location_text": "Station Road, Surat",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p166",
+    "source": "twitter",
+    "user": "local_reporter",
+    "text": "A building collapsed in Gandhi Nagar, Aizawl. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-31T05:46:00+05:30",
+    "likes": 278,
+    "retweets": 108,
+    "location_text": "Gandhi Nagar, Aizawl",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p167",
+    "source": "twitter",
+    "user": "firstresponder",
+    "text": "Water level rising fast near Gandhi Nagar, Guwahati. Roads are blocked and several neighborhoods underwater. Request immediate evacuation.",
+    "created_at": "2025-08-02T15:13:00+05:30",
+    "likes": 34,
+    "retweets": 25,
+    "location_text": "Gandhi Nagar, Guwahati",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p168",
+    "source": "facebook",
+    "user": "rescue_team",
+    "text": "Attended a cultural festival in Ahmedabad today. Amazing performances and food.",
+    "created_at": "2025-08-04T12:32:00+05:30",
+    "likes": 148,
+    "retweets": 59,
+    "location_text": "Station Road, Ahmedabad",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p169",
+    "source": "facebook",
+    "user": "volunteer_group",
+    "text": "Enjoying a beautiful day at Market Road, Bhopal. Perfect weather for a walk!",
+    "created_at": "2025-09-03T15:26:00+05:30",
+    "likes": 153,
+    "retweets": 70,
+    "location_text": "Market Road, Bhopal",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p170",
+    "source": "instagram",
+    "user": "travel_diary89",
+    "text": "Trying out a popular cafe in Leh. Great coffee and vibes!",
+    "created_at": "2025-08-26T00:20:00+05:30",
+    "likes": 356,
+    "retweets": 106,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p171",
+    "source": "instagram",
+    "user": "rescue_team182",
+    "text": "A building collapsed in Market Road, Srinagar. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-10T22:58:00+05:30",
+    "likes": 29,
+    "retweets": 143,
+    "location_text": "Market Road, Srinagar",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p172",
+    "source": "facebook",
+    "user": "traveler",
+    "text": "Water level rising fast near Coastal Road, Kullu. Roads are blocked and several neighborhoods underwater. Request immediate evacuation.",
+    "created_at": "2025-08-24T10:34:00+05:30",
+    "likes": 370,
+    "retweets": 48,
+    "location_text": "Coastal Road, Kullu",
+    "labels": {
+      "disaster": true,
+      "type": "flood"
+    }
+  },
+  {
+    "id": "p173",
+    "source": "facebook",
+    "user": "observer",
+    "text": "Landslide on the road near Market Road between Mumbai and nearby areas after heavy rains. Vehicles trapped, rescue required.",
+    "created_at": "2025-09-05T14:30:00+05:30",
+    "likes": 106,
+    "retweets": 85,
+    "location_text": "Market Road, Mumbai",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p174",
+    "source": "instagram",
+    "user": "observer",
+    "text": "A hillside collapse at Market Road, Srinagar blocking the highway. Multiple people reported missing.",
+    "created_at": "2025-08-26T15:35:00+05:30",
+    "likes": 164,
+    "retweets": 198,
+    "location_text": "Market Road, Srinagar",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p175",
+    "source": "facebook",
+    "user": "samaritan185",
+    "text": "Heatwave alert in Vijayawada: temperatures above 43C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-31T18:58:00+05:30",
+    "likes": 104,
+    "retweets": 94,
+    "location_text": "Airport Road, Vijayawada",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p176",
+    "source": "instagram",
+    "user": "observer",
+    "text": "Storm surge expected in Thiruvananthapuram due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-08-27T17:09:00+05:30",
+    "likes": 100,
+    "retweets": 84,
+    "location_text": "Airport Road, Thiruvananthapuram",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p177",
+    "source": "twitter",
+    "user": "samaritan",
+    "text": "Wildfire spreading near Hill Top close to Hyderabad. Smoke everywhere and villages evacuated. Need firefighting support.",
+    "created_at": "2025-09-01T22:10:00+05:30",
+    "likes": 375,
+    "retweets": 90,
+    "location_text": "Hill Top, Hyderabad",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p178",
+    "source": "facebook",
+    "user": "local_reporter",
+    "text": "Trying out a popular cafe in Delhi. Great coffee and vibes!",
+    "created_at": "2025-08-06T05:03:00+05:30",
+    "likes": 391,
+    "retweets": 1,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p179",
+    "source": "facebook",
+    "user": "rescue_team",
+    "text": "Gas leak reported at Gandhi Nagar, Varanasi. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-24T09:39:00+05:30",
+    "likes": 326,
+    "retweets": 170,
+    "location_text": "Gandhi Nagar, Varanasi",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p180",
+    "source": "facebook",
+    "user": "volunteer_group",
+    "text": "A building collapsed in Airport Road, Bengaluru. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-19T08:32:00+05:30",
+    "likes": 416,
+    "retweets": 178,
+    "location_text": "Airport Road, Bengaluru",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p181",
+    "source": "instagram",
+    "user": "travel_diary91",
+    "text": "Gas leak reported at Lake Side, Manali. Evacuations underway, several people have breathing issues. Hazmat team needed.",
+    "created_at": "2025-08-18T20:05:00+05:30",
+    "likes": 191,
+    "retweets": 103,
+    "location_text": "Lake Side, Manali",
+    "labels": {
+      "disaster": true,
+      "type": "gas_leak"
+    }
+  },
+  {
+    "id": "p182",
+    "source": "facebook",
+    "user": "traveler97",
+    "text": "Wildfire spreading near Gandhi Nagar close to Jaipur. Smoke everywhere and villages evacuated. Need firefighting support.",
+    "created_at": "2025-09-05T23:03:00+05:30",
+    "likes": 326,
+    "retweets": 2,
+    "location_text": "Gandhi Nagar, Jaipur",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p183",
+    "source": "facebook",
+    "user": "local_reporter178",
+    "text": "Caught a fantastic sunset at Airport Road, Siliguri. #photography",
+    "created_at": "2025-09-06T23:17:00+05:30",
+    "likes": 23,
+    "retweets": 19,
+    "location_text": "Airport Road, Siliguri",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p184",
+    "source": "twitter",
+    "user": "local_reporter",
+    "text": "A building collapsed in Coastal Road, Leh. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-09-07T12:48:00+05:30",
+    "likes": 420,
+    "retweets": 182,
+    "location_text": "Coastal Road, Leh",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p185",
+    "source": "twitter",
+    "user": "newsbot190",
+    "text": "Heatwave alert in Surat: temperatures above 43C. Several cases of heat exhaustion reported. Need water stations and cooling centers.",
+    "created_at": "2025-08-10T06:46:00+05:30",
+    "likes": 40,
+    "retweets": 128,
+    "location_text": "Airport Road, Surat",
+    "labels": {
+      "disaster": true,
+      "type": "heatwave"
+    }
+  },
+  {
+    "id": "p186",
+    "source": "facebook",
+    "user": "local_reporter",
+    "text": "A building collapsed in Coastal Road, Ahmedabad. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-29T23:14:00+05:30",
+    "likes": 182,
+    "retweets": 141,
+    "location_text": "Coastal Road, Ahmedabad",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p187",
+    "source": "twitter",
+    "user": "traveler40",
+    "text": "A building collapsed in Market Road, Pune. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-26T06:50:00+05:30",
+    "likes": 324,
+    "retweets": 39,
+    "location_text": "Market Road, Pune",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p188",
+    "source": "twitter",
+    "user": "volunteer_group23",
+    "text": "Attended a cultural festival in Kochi today. Amazing performances and food.",
+    "created_at": "2025-08-12T21:28:00+05:30",
+    "likes": 285,
+    "retweets": 142,
+    "location_text": "Coastal Road, Kochi",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p189",
+    "source": "facebook",
+    "user": "observer",
+    "text": "Strong earthquake of magnitude 6.0 struck near Jaipur. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-08-25T08:18:00+05:30",
+    "likes": 211,
+    "retweets": 99,
+    "location_text": "Lake Side, Jaipur",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p190",
+    "source": "instagram",
+    "user": "volunteer_group38",
+    "text": "A hillside collapse at Hill Top, Lucknow blocking the highway. Multiple people reported missing.",
+    "created_at": "2025-08-05T13:27:00+05:30",
+    "likes": 141,
+    "retweets": 107,
+    "location_text": "Hill Top, Lucknow",
+    "labels": {
+      "disaster": true,
+      "type": "landslide"
+    }
+  },
+  {
+    "id": "p191",
+    "source": "instagram",
+    "user": "observer28",
+    "text": "Caught a fantastic sunset at Lake Side, Patiala. #photography",
+    "created_at": "2025-08-09T17:00:00+05:30",
+    "likes": 485,
+    "retweets": 101,
+    "location_text": "Lake Side, Patiala",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p192",
+    "source": "twitter",
+    "user": "newsbot167",
+    "text": "Local market in Station Road, Hyderabad has lovely handicrafts. Support small businesses!",
+    "created_at": "2025-09-08T12:19:00+05:30",
+    "likes": 164,
+    "retweets": 154,
+    "location_text": "Station Road, Hyderabad",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p193",
+    "source": "facebook",
+    "user": "samaritan",
+    "text": "Caught a fantastic sunset at Hill Top, Bhopal. #photography",
+    "created_at": "2025-08-16T18:24:00+05:30",
+    "likes": 143,
+    "retweets": 100,
+    "location_text": null,
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p194",
+    "source": "facebook",
+    "user": "local_reporter",
+    "text": "Tremors felt in Leh, aftershocks continuing. Multiple reports of damage and trapped people. Please send help.",
+    "created_at": "2025-08-31T06:13:00+05:30",
+    "likes": 224,
+    "retweets": 74,
+    "location_text": "Airport Road, Leh",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p195",
+    "source": "facebook",
+    "user": "firstresponder",
+    "text": "A building collapsed in Industrial Area, Thiruvananthapuram. People are trapped under debris. Immediate rescue required.",
+    "created_at": "2025-08-05T22:38:00+05:30",
+    "likes": 245,
+    "retweets": 149,
+    "location_text": "Industrial Area, Thiruvananthapuram",
+    "labels": {
+      "disaster": true,
+      "type": "building_collapse"
+    }
+  },
+  {
+    "id": "p196",
+    "source": "facebook",
+    "user": "rescue_team",
+    "text": "Attended a cultural festival in Jaipur today. Amazing performances and food.",
+    "created_at": "2025-08-23T13:41:00+05:30",
+    "likes": 313,
+    "retweets": 11,
+    "location_text": "Near the river, Jaipur",
+    "labels": {
+      "disaster": false
+    }
+  },
+  {
+    "id": "p197",
+    "source": "facebook",
+    "user": "traveler67",
+    "text": "Storm surge expected in Hyderabad due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-08-16T00:47:00+05:30",
+    "likes": 265,
+    "retweets": 142,
+    "location_text": "Old Town, Hyderabad",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  },
+  {
+    "id": "p198",
+    "source": "twitter",
+    "user": "local_reporter76",
+    "text": "Large forest fire at Coastal Road, Varanasi outskirts — houses at risk and smoke making breathing difficult. Volunteers needed to help evacuate.",
+    "created_at": "2025-08-27T10:07:00+05:30",
+    "likes": 425,
+    "retweets": 186,
+    "location_text": "Coastal Road, Varanasi",
+    "labels": {
+      "disaster": true,
+      "type": "wildfire"
+    }
+  },
+  {
+    "id": "p199",
+    "source": "twitter",
+    "user": "traveler179",
+    "text": "Strong earthquake of magnitude 7.0 struck near Visakhapatnam. Several buildings collapsed and people injured. Need ambulances and rescue teams.",
+    "created_at": "2025-08-29T18:04:00+05:30",
+    "likes": 153,
+    "retweets": 11,
+    "location_text": "Station Road, Visakhapatnam",
+    "labels": {
+      "disaster": true,
+      "type": "earthquake"
+    }
+  },
+  {
+    "id": "p200",
+    "source": "facebook",
+    "user": "travel_diary41",
+    "text": "Storm surge expected in Shimla due to cyclone. Authorities issuing evacuation orders for low-lying areas.",
+    "created_at": "2025-08-23T01:27:00+05:30",
+    "likes": 490,
+    "retweets": 118,
+    "location_text": "Market Road, Shimla",
+    "labels": {
+      "disaster": true,
+      "type": "cyclone"
+    }
+  }
+]
